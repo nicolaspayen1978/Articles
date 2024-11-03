@@ -14,7 +14,7 @@ This repository contains the following articles:
 6. **Dreaming Out Loud** - *November 18, 2016*
 7. **From Augmented Reality to Augmented Experience (AR-X)** - June 7, 2017
 8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017*
-9. **Entrepneur's life** - *June 21, 2020*
+9. **Entrepneur's life** - *January 21, 2020*
 10. **Three Ways Positive Energy Ltd transforms the energy industry** - *February 12, 2020*
 11. **What if countries were tackling Climate Change with the same intensity and urgency as Covid-19?** - *February 26, 2021*
 12. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021*
