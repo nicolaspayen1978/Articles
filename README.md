@@ -16,13 +16,16 @@ This repository contains the following articles:
 8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017*
 9. **Entrepneur's life** - *June 21, 2020*
 10. **Three Ways Positive Energy Ltd transforms the energy industry** - *February 12, 2020*
-11. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021*
-12. **Five Thoughts about Hydrogen** - *March 16, 2021*
-13. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021*
-
-9. **What if Countries Were Tackling Climate Change with the Same Intensity and Urgency as Covid-19?** - *May 12, 2022*
-11. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2022*
-12. **Energy Procurement for Decarbonization** - *October 7, 2022*
+11. **What if countries were tackling Climate Change with the same intensity and urgency as Covid-19?** - *February 26, 2021*
+12. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021*
+13. **Five Thoughts about Hydrogen** - *March 16, 2021*
+14. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021*
+15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021*
+16. **Energy Procurement for Decarbonization** - *October 7, 2021*
+17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021*
+18. **How do I decarbonize my household and make money?** - *November 17, 2021*
+19. **A call for clean energy defense bonds**, *June 13, 2022*
+20. 
 13. **Letter to Dr. Jordan B. Peterson** - *November 18, 2022*
 14. **An Ode to Climate Leaders** - *May 26, 2023*
 15. **10 Do’s and Don’ts of Power Purchase Agreements (PPAs) for Renewable Energy Projects** - *May 27, 2023*
