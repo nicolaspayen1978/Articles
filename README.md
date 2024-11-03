@@ -25,15 +25,15 @@ This repository contains the following articles:
 17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021*
 18. **How do I decarbonize my household and make money?** - *November 17, 2021*
 19. **A call for clean energy defense bonds**, *June 13, 2022*
-20. 
-13. **Letter to Dr. Jordan B. Peterson** - *November 18, 2022*
-14. **An Ode to Climate Leaders** - *May 26, 2023*
-15. **10 Do’s and Don’ts of Power Purchase Agreements (PPAs) for Renewable Energy Projects** - *May 27, 2023*
-16. **Unlocking Energy Efficiency: Exploring Energy Performance Contracts (EPC)** - *May 29, 2023*
-17. **10 Analogies Between the Tobacco Industry and the Fossil Fuel Industry** - *May 31, 2023*
-18. **Are Behind-the-Meter Battery Energy Storage Systems the Secret Enabler of Our 2030 Climate Targets?** - *November 7, 2023*
-19. **2023 was a Great Year for Climate Tech Investors** - *January 10, 2024*
-20. **Charting the Skies: The Start-up Journey as an Epic Flight** - *October 14, 2024*
+20. **Introducing the universal solar tariff**, *September 21, 2022*
+21. **Letter to Dr. Jordan B. Peterson** - *November 18, 2022*
+22. **An Ode to Climate Leaders** - *May 26, 2023*
+23. **10 Do’s and Don’ts of Power Purchase Agreements (PPAs) for Renewable Energy Projects** - *May 27, 2023*
+24. **Unlocking Energy Efficiency: Exploring Energy Performance Contracts (EPC)** - *May 29, 2023*
+25. **10 Analogies Between the Tobacco Industry and the Fossil Fuel Industry** - *May 31, 2023*
+26. **Are Behind-the-Meter Battery Energy Storage Systems the Secret Enabler of Our 2030 Climate Targets?** - *November 7, 2023*
+27. **2023 was a Great Year for Climate Tech Investors** - *January 10, 2024*
+28. **Charting the Skies: The Start-up Journey as an Epic Flight** - *October 14, 2024*
 
 Each article is named based on its title for easy access.
 
