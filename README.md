@@ -7,8 +7,8 @@ Welcome to the repository containing a collection of articles written by Nicolas
 This repository contains the following articles:
 
 1. **HeForShe: She for He** - *September 30, 2015*
-2. **Atmosphere, Atmosphere** - *November 18, 2016*
-3. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015*
+2. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015*
+3. **Atmosphere, Atmosphere** - *November 18, 2015*
 4. **Industrial IoT: Putting Customer Services at the Core** - *December 18, 2015*
 5. **Building Your IoT All-Star Engineering Team** - *February 1, 2016*
 6. **Dreaming Out Loud** - *November 18, 2016*
