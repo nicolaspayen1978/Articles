@@ -24,6 +24,7 @@ This repository contains the following articles:
 16. **10 Analogies Between the Tobacco Industry and the Fossil Fuel Industry** - *May 31, 2023*
 17. **Are Behind-the-Meter Battery Energy Storage Systems the Secret Enabler of Our 2030 Climate Targets?** - *November 7, 2023*
 18. **2023 was a Great Year for Climate Tech Investors** - *January 10, 2024*
+19. **Charting the Skies: The Start-up Journey as an Epic Flight** - *October 14, 2024*
 
 Each article is named based on its title for easy access.
 
