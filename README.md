@@ -6,13 +6,15 @@ Welcome to the repository containing a collection of articles written by Nicolas
 
 This repository contains the following articles:
 
-1. **Dreaming Out Loud** - *April 4, 2021*
-2. **Atmosphere, Atmosphere** - *June 17, 2021*
-3. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *September 5, 2021*
-4. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *November 15, 2021*
+1. **HeForShe: She for He** - *September 30, 2015*
+2. **Atmosphere, Atmosphere** - *November 18, 2016*
+3. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015*
+4. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017*
+
+1. **Dreaming Out Loud** - *June 17, 2021*
 5. **Building Your IoT All-Star Engineering Team** - *January 10, 2022*
 6. **Industrial IoT: Putting Customer Services at the Core** - *March 3, 2022*
-7. **HeForShe: She for He** - *April 15, 2022*
+
 8. **What if Countries Were Tackling Climate Change with the Same Intensity and Urgency as Covid-19?** - *May 12, 2022*
 9. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *June 22, 2022*
 10. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2022*
