@@ -35,6 +35,7 @@ This repository contains the following articles:
 27. **2023 was a Great Year for Climate Tech Investors** - *January 10, 2024*
 28. **Charting the Skies: The Start-up Journey as an Epic Flight** - *October 14, 2024*
 29. **Leadership at the Crossroads of Brain and Guts** - *November 20, 2024*
+30. **4Gs portfolio update - 2024 Annual returns** - *January 5, 2025*
 
 Each article is named based on its title for easy access.
 
