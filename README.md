@@ -32,7 +32,7 @@ This repository contains the following articles:
 24. **Unlocking Energy Efficiency: Exploring Energy Performance Contracts (EPC)** - *May 29, 2023* [[.]](https://nicolaspayen1978.github.io/Articles/24_Unlocking_EE_EPC/Article24.html)
 25. **10 Analogies Between the Tobacco Industry and the Fossil Fuel Industry** - *May 31, 2023* [[.]](https://nicolaspayen1978.github.io/Articles/25_TenAnalogiesTabaccoFossilFuel/Article25.html)
 26. **Are Behind-the-Meter Battery Energy Storage Systems the Secret Enabler of Our 2030 Climate Targets?** - *November 7, 2023* [[.]](https://nicolaspayen1978.github.io/Articles/26_BehindTheMeterStorage/Article26.html)
-27. **2023 was a Great Year for Climate Tech Investors** - *January 10, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/27_4Gs_2024_YE/Article27.html)
+27. **2023 was a Great Year for Climate Tech Investors** - *January 10, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/27_4Gs2023YE/Article27.html)
 28. **Charting the Skies: The Start-up Journey as an Epic Flight** - *October 14, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/28_ChartingTheSky/Article28.html)
 29. **Leadership at the Crossroads of Brain and Guts** - *November 20, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/29_BrainGuts/Article29.html)
 30. **4Gs portfolio update - 2024 Annual returns** - *January 5, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/30_4Gs_2024_YE/Article30.html)
