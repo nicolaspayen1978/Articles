@@ -11,7 +11,7 @@ This repository contains the following articles:
 3. **Atmosphere, Atmosphere** - *November 18, 2015* [.](https://nicolaspayen1978.github.io/Articles/03_ProductivityLessonsSingapore/Article03.html)
 4. **Industrial IoT: Putting Customer Services at the Core** - *December 18, 2015* [.](https://nicolaspayen1978.github.io/Articles/04_IndustrialIoT/Article04.html)
 5. **Building Your IoT All-Star Engineering Team** - *February 1, 2016* [.](https://nicolaspayen1978.github.io/Articles/05_BuildingIoTteam/Article05.html)
-6. **Dreaming Out Loud** - *November 18, 2016*
+6. **Dreaming Out Loud** - *November 18, 2016* [.](https://nicolaspayen1978.github.io/Articles/06_DreamingOutLoud/Article06.html)
 7. **From Augmented Reality to Augmented Experience (AR-X)** - June 7, 2017
 8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017*
 9. **Entrepneur's life** - *January 21, 2020*
