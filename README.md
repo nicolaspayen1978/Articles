@@ -21,7 +21,7 @@ This repository contains the following articles:
 14. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/13_FiveThoughtsaboutHydrogen/Article13.html)
 15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/14_CarbonPricingforNetZero/Article14.html)
 16. **Energy Procurement for Decarbonization** - *October 7, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/15_ProjectFinance_vsCorporateFinance/Article15.html)
-17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021*
+17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/16_EnergyProcurement_forDecarbonization/Article15.html)
 18. **How do I decarbonize my household and make money?** - *November 17, 2021*
 19. **A call for clean energy defense bonds**, *June 13, 2022*
 20. **Introducing the universal solar tariff**, *September 21, 2022*
