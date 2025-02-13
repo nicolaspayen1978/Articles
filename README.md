@@ -8,12 +8,12 @@ This repository contains the following articles:
 
 1. **HeForShe: She for He** - *September 30, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/01_HeforSheSheforHe/Article01.html)
 2. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015* [.](https://nicolaspayen1978.github.io/Articles/02_AtmosphereAtmosphere/Article02.html)
-3. **Atmosphere, Atmosphere** - *November 18, 2015* [.](https://nicolaspayen1978.github.io/Articles/03_ProductivityLessonsSingapore/Article03.html)
-4. **Industrial IoT: Putting Customer Services at the Core** - *December 18, 2015* [.](https://nicolaspayen1978.github.io/Articles/04_IndustrialIoT/Article04.html)
-5. **Building Your IoT All-Star Engineering Team** - *February 1, 2016* [.](https://nicolaspayen1978.github.io/Articles/05_BuildingIoTteam/Article05.html)
-6. **Dreaming Out Loud** - *November 18, 2016* [.](https://nicolaspayen1978.github.io/Articles/06_DreamingOutLoud/Article06.html)
-7. **From Augmented Reality to Augmented Experience (AR-X)** - June 7, 2017
-8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017*
+3. **Atmosphere, Atmosphere** - *November 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/03_ProductivityLessonsSingapore/Article03.html)
+4. **Industrial IoT: Putting Customer Services at the Core** - *December 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/04_IndustrialIoT/Article04.html)
+5. **Building Your IoT All-Star Engineering Team** - *February 1, 2016* [[.]](https://nicolaspayen1978.github.io/Articles/05_BuildingIoTteam/Article05.html)
+6. **Dreaming Out Loud** - *November 18, 2016* [[.]](https://nicolaspayen1978.github.io/Articles/06_DreamingOutLoud/Article06.html)
+7. **From Augmented Reality to Augmented Experience (AR-X)** - June 7, 2017 [[.]](https://nicolaspayen1978.github.io/Articles/07_AR-X/Article07.html)
+8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017* [[.]](https://nicolaspayen1978.github.io/Articles/08_InnovationStrategy/Article08.html)
 9. **Entrepneur's life** - *January 21, 2020*
 10. **Three Ways Positive Energy Ltd transforms the energy industry** - *February 12, 2020*
 11. **What if countries were tackling Climate Change with the same intensity and urgency as Covid-19?** - *February 26, 2021*
