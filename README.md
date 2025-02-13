@@ -22,9 +22,10 @@ This repository contains the following articles:
 15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/14_CarbonPricingforNetZero/Article14.html)
 16. **Energy Procurement for Decarbonization** - *October 7, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/15_ProjectFinance_vsCorporateFinance/Article15.html)
 17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/16_EnergyProcurement_forDecarbonization/Article15.html)
-18. **How do I decarbonize my household and make money?** - *November 17, 2021*
-19. **A call for clean energy defense bonds**, *June 13, 2022*
-20. **Introducing the universal solar tariff**, *September 21, 2022*
+18. **How do I decarbonize my household and make money?** - *November 17, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/17_FossilFuelTobacco/Article17.html)
+18. **How do I decarbonize my household and make money?** - *November 17, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/18_HomeDecarbonization/Article18.html)
+19. **A call for clean energy defense bonds**, *June 13, 2022* [[.]](https://nicolaspayen1978.github.io/Articles/19_ACallForCleanEnergyDefenseBonds/Article19.html)
+20. **Introducing the universal solar tariff**, *September 21, 2022* [[.]](https://nicolaspayen1978.github.io/Articles/20_UniversalSolarTariff/Article20.html)
 21. **Letter to Dr. Jordan B. Peterson** - *November 18, 2022*
 22. **An Ode to Climate Leaders** - *May 26, 2023*
 23. **10 Do’s and Don’ts of Power Purchase Agreements (PPAs) for Renewable Energy Projects** - *May 27, 2023*
