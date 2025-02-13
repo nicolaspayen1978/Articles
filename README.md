@@ -16,17 +16,17 @@ This repository contains the following articles:
 8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017* [[.]](https://nicolaspayen1978.github.io/Articles/08_InnovationStrategy/Article08.html)
 9. **Entrepneur's life** - *January 21, 2020* [[.]](https://nicolaspayen1978.github.io/Articles/09_EntrepreneursLife/Article09.html)
 10. **Three Ways Positive Energy Ltd transforms the energy industry** - *February 12, 2020* [[.]](https://nicolaspayen1978.github.io/Articles/10_ThreeWaysPELtransformsEnergyIndustry/Article10.html)
-12. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/11_TaklingClimateChangeLikeCovide/Article11.html)
-13. **Five Thoughts about Hydrogen** - *March 16, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/12_NetPresentCarbonSavings/Article12.html)
-14. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/13_FiveThoughtsaboutHydrogen/Article13.html)
-15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/14_CarbonPricingforNetZero/Article14.html)
-16. **Energy Procurement for Decarbonization** - *October 7, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/15_ProjectFinance_vsCorporateFinance/Article15.html)
-17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/16_EnergyProcurement_forDecarbonization/Article15.html)
-18. **How do I decarbonize my household and make money?** - *November 17, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/17_FossilFuelTobacco/Article17.html)
+11. **What if countries were tackling Climate Change with the same intensity and urgency as Covid-19?** - *February 26, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/11_TaklingClimateChangeLikeCovid/Article11.html)
+12. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/12_NetPresentCarbonSavings/Article12.html)
+13. **Five Thoughts about Hydrogen** - *March 16, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/13_FiveThoughtsaboutHydrogen/Article13.html)
+14. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/14_CarbonPricingforNetZero/Article14.html)
+15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/15_ProjectFinance_vsCorporateFinance/Article15.html)
+16. **Energy Procurement for Decarbonization** - *October 7, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/16_EnergyProcurement_forDecarbonization/Article16.html)
+17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/17_FossilFuelTobacco/Article17.html)
 18. **How do I decarbonize my household and make money?** - *November 17, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/18_HomeDecarbonization/Article18.html)
 19. **A call for clean energy defense bonds**, *June 13, 2022* [[.]](https://nicolaspayen1978.github.io/Articles/19_ACallForCleanEnergyDefenseBonds/Article19.html)
 20. **Introducing the universal solar tariff**, *September 21, 2022* [[.]](https://nicolaspayen1978.github.io/Articles/20_UniversalSolarTariff/Article20.html)
-21. **Letter to Dr. Jordan B. Peterson** - *November 18, 2022*
+21. **Letter to Dr. Jordan B. Peterson** - *November 18, 2022* [[.]](https://nicolaspayen1978.github.io/Articles/21_LetterToJordanPeterson/Article21.html)
 22. **An Ode to Climate Leaders** - *May 26, 2023*
 23. **10 Do’s and Don’ts of Power Purchase Agreements (PPAs) for Renewable Energy Projects** - *May 27, 2023*
 24. **Unlocking Energy Efficiency: Exploring Energy Performance Contracts (EPC)** - *May 29, 2023*
