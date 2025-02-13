@@ -14,14 +14,13 @@ This repository contains the following articles:
 6. **Dreaming Out Loud** - *November 18, 2016* [[.]](https://nicolaspayen1978.github.io/Articles/06_DreamingOutLoud/Article06.html)
 7. **From Augmented Reality to Augmented Experience (AR-X)** - June 7, 2017 [[.]](https://nicolaspayen1978.github.io/Articles/07_AR-X/Article07.html)
 8. **Discover Why Your Innovation Strategy Needs More Autonomous Teams** - *June 22, 2017* [[.]](https://nicolaspayen1978.github.io/Articles/08_InnovationStrategy/Article08.html)
-9. **Entrepneur's life** - *January 21, 2020*
-10. **Three Ways Positive Energy Ltd transforms the energy industry** - *February 12, 2020*
-11. **What if countries were tackling Climate Change with the same intensity and urgency as Covid-19?** - *February 26, 2021*
-12. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021*
-13. **Five Thoughts about Hydrogen** - *March 16, 2021*
-14. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021*
-15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021*
-16. **Energy Procurement for Decarbonization** - *October 7, 2021*
+9. **Entrepneur's life** - *January 21, 2020* [[.]](https://nicolaspayen1978.github.io/Articles/09_EntrepreneursLife/Article09.html)
+10. **Three Ways Positive Energy Ltd transforms the energy industry** - *February 12, 2020* [[.]](https://nicolaspayen1978.github.io/Articles/10_ThreeWaysPELtransformsEnergyIndustry/Article10.html)
+12. **Why and How to use Net Present CO2 saving for smarter Climate Action decisions?** - *March 9, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/11_TaklingClimateChangeLikeCovide/Article11.html)
+13. **Five Thoughts about Hydrogen** - *March 16, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/12_NetPresentCarbonSavings/Article12.html)
+14. **Carbon Pricing for Net-Zero: Resulting LCOE Estimates** - *March 24, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/13_FiveThoughtsaboutHydrogen/Article13.html)
+15. **Project Finance vs. Corporate Finance to Invest in Decarbonization and Climate Change Mitigation** - *August 12, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/14_CarbonPricingforNetZero/Article14.html)
+16. **Energy Procurement for Decarbonization** - *October 7, 2021* [[.]](https://nicolaspayen1978.github.io/Articles/15_ProjectFinance_vsCorporateFinance/Article15.html)
 17. **Why are governments considering treating the Fossil Fuel industry like Big Tobacco?** - *October 21, 2021*
 18. **How do I decarbonize my household and make money?** - *November 17, 2021*
 19. **A call for clean energy defense bonds**, *June 13, 2022*
