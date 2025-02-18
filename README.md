@@ -7,7 +7,7 @@ Welcome to the repository containing a collection of articles written by Nicolas
 This repository contains the following articles:
 
 1. **HeForShe: She for He** - *September 30, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/01_HeforSheSheforHe/Article01.html)
-2. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015* [.](https://nicolaspayen1978.github.io/Articles/02_AtmosphereAtmosphere/Article02.html)
+2. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/02_AtmosphereAtmosphere/Article02.html)
 3. **Atmosphere, Atmosphere** - *November 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/03_ProductivityLessonsSingapore/Article03.html)
 4. **Industrial IoT: Putting Customer Services at the Core** - *December 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/04_IndustrialIoT/Article04.html)
 5. **Building Your IoT All-Star Engineering Team** - *February 1, 2016* [[.]](https://nicolaspayen1978.github.io/Articles/05_BuildingIoTteam/Article05.html)
@@ -37,11 +37,11 @@ This repository contains the following articles:
 29. **Leadership at the Crossroads of Brain and Guts** - *November 20, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/29_BrainGuts/Article29.html)
 30. **4Gs portfolio update - 2024 Annual returns** - *January 5, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/30_4Gs_2024_YE/Article30.html)
 
-Each article is named based on its title for easy access.
+For easy access, each article is named based on its title.
 
 ## How to View the Articles
 
-To read an article, simply open the corresponding HTML file in your browser.
+To read an article, open the corresponding HTML file in your browser or click on the [.].
 
 ## Repository Structure
 
