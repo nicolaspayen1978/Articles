@@ -41,7 +41,7 @@ For easy access, each article is named based on its title.
 
 ## How to View the Articles
 
-To read an article, open the corresponding HTML file in your browser or click on the [[.]].
+To read an article, open the corresponding HTML file in your browser or click on the [.].
 
 ## Repository Structure
 
