@@ -7,8 +7,8 @@ Welcome to the repository containing a collection of articles written by Nicolas
 This repository contains the following articles:
 
 1. **HeForShe: She for He** - *September 30, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/01_HeforSheSheforHe/Article01.html)
-2. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/02_AtmosphereAtmosphere/Article02.html)
-3. **Atmosphere, Atmosphere** - *November 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/03_ProductivityLessonsSingapore/Article03.html)
+2. **Productivity Lessons from Settling Down in the World’s Best Place to Do Business** - *October 27, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/03_ProductivityLessonsSingapore/Article03.html)
+3. **Atmosphere, Atmosphere** - *November 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/02_AtmosphereAtmosphere/Article02.html)
 4. **Industrial IoT: Putting Customer Services at the Core** - *December 18, 2015* [[.]](https://nicolaspayen1978.github.io/Articles/04_IndustrialIoT/Article04.html)
 5. **Building Your IoT All-Star Engineering Team** - *February 1, 2016* [[.]](https://nicolaspayen1978.github.io/Articles/05_BuildingIoTteam/Article05.html)
 6. **Dreaming Out Loud** - *November 18, 2016* [[.]](https://nicolaspayen1978.github.io/Articles/06_DreamingOutLoud/Article06.html)
