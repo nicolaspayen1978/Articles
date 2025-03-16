@@ -36,6 +36,7 @@ This repository contains the following articles:
 28. **Charting the Skies: The Start-up Journey as an Epic Flight** - *October 14, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/28_ChartingTheSky/Article28.html)
 29. **Leadership at the Crossroads of Brain and Guts** - *November 20, 2024* [[.]](https://nicolaspayen1978.github.io/Articles/29_BrainGuts/Article29.html)
 30. **4Gs portfolio update - 2024 Annual returns** - *January 5, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/30_4Gs_2024_YE/Article30.html)
+31. **AI running Dinner Challenge, fight of the giants** - *March 16, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/31_AI_running_dinner_challenge/Article31.html)
 
 For easy access, each article is named based on its title.
 
