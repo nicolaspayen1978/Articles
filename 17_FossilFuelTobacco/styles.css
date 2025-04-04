@@ -111,6 +111,12 @@ footer a {
     font-weight: bold;
 }
 
+header a {
+    color: #d0d0d0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 footer a:hover {
     text-decoration: underline;
 }
@@ -119,6 +125,7 @@ footer a:hover {
 a {
     color: #3b4d4a; /* Dark green-blue-grey for links */
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {

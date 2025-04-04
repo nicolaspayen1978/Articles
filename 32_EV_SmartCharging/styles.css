@@ -111,6 +111,12 @@ footer a {
     font-weight: bold;
 }
 
+header a {
+    color: #d0d0d0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 footer a:hover {
     text-decoration: underline;
 }
