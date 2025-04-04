@@ -38,6 +38,7 @@ This repository contains the following articles:
 30. **4Gs portfolio update - 2024 Annual returns** - *January 5, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/30_4Gs_2024_YE/Article30.html)
 31. **AI running Dinner Challenge, fight of the giants** - *March 16, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/31_AI_running_dinner_challenge/Article31.html)
 32. **Enhancing Smart EV Charging for a Sustainable Future** - *March 17, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/32_EV_SmartCharging/Article32.html)
+33. **Nuclear: It Is the Way (Too)** - *April 4, 2025* [[.]](https://nicolaspayen1978.github.io/Articles/33_Nuclear_It_is_the_way/Article33.html)
 
 For easy access, each article is named based on its title.
 
