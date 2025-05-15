@@ -1,0 +1,133 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #2b2b2b;
+    background-color: #f7f9fc;
+    margin: 20px;
+}
+
+/* Header Styling */
+header {
+    background: linear-gradient(135deg, #4a4a4a, #8c8c8c);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+    color: #f0f0f0;
+}
+
+/* Bullet Point Styling */
+ul {
+    margin-left: 20px; /* Adjust this value to move bullets further right */
+}
+
+header .author, header .date {
+    color: #d0d0d0;
+    font-size: 0.9em;
+}
+
+/* Main Content Styling */
+main {
+    max-width: 800px;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Title and Subtitle Styling */
+main h2 {
+    color: #3b4d4a; /* Dark green-blue-grey */
+    margin-top: 1.5em;
+    font-size: 1.6em;
+    border-bottom: 2px solid #3b4d4a;
+    padding-bottom: 5px;
+}
+
+/* Paragraph Styling */
+main p {
+    margin: 15px 0;
+    color: #444;
+}
+
+/* Emphasized Large Quote Styling */
+.large-quote {
+    font-size: 1.8em;
+    font-style: italic;
+    color: #3b4d4a; /* Matches title color for cohesion */
+    text-align: center;
+    margin: 20px 0;
+    line-height: 1.4;
+}
+
+/* Image and Caption Styling */
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+figcaption {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 8px;
+}
+
+/* Footer Styling */
+footer {
+    background: linear-gradient(135deg, #8c8c8c, #4a4a4a);
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+footer a {
+    color: #d0d0d0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header a {
+    color: #d0d0d0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Link Styling */
+a {
+    color: #3b4d4a; /* Dark green-blue-grey for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
