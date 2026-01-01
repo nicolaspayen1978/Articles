@@ -1,6 +1,6 @@
 # Nicolas Payen's Articles
 
-Welcome to the repository containing a collection of articles written by Nicolas Payen. These articles cover a range of topics, including climate tech, renewable energy, portfolio management, and sustainable practices. Each article is available in a simple HTML format, allowing easy reading and sharing.
+Welcome to the repository containing a collection of articles written by Nicolas Payen. These articles cover a range of topics, including climate tech, renewable energy, portfolio management, and sustainable practices. Each article is available in a simple HTML format, allowing easy reading and sharing..
 
 ## Contents
 
