@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO -->
+  <meta name="description" content="Nicolas Payen shares what building HEA-World with AI taught him about model selection, token efficiency, emotional intelligence, automation, data centres and the future energy demand of artificial intelligence.">
+  <meta name="keywords" content="economics of intelligence, AI tokenomics, AI models, token efficiency, AI automation, AI energy demand, data centres, nano models, frontier AI, emotional intelligence AI, distributed AI, renewable energy, HEA-World, Nicolas Payen">
+  <meta name="author" content="Nicolas Payen">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="The Economics of Intelligence: What Building With AI Taught Me About Tokens, Models and Energy">
+  <meta property="og:description" content="The cheapest AI model can produce the most expensive outcome. What a year of building with AI taught me about allocating intelligence, model choice and energy.">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://nicolaspayen1978.github.io/Articles/39_EconomicsOfIntelligence/images/hero.jpg">
+  <meta property="og:url" content="https://nicolaspayen1978.github.io/Articles/39_EconomicsOfIntelligence/article39.html">
+  <meta property="og:site_name" content="Nicolas Payen">
+  <meta property="og:locale" content="en_US">
+  <meta property="article:author" content="Nicolas Payen">
+  <meta property="article:published_time" content="2026-07-09">
+  <title>The Economics of Intelligence: What Building With AI Taught Me About Tokens, Models and Energy</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <h1>The Economics of Intelligence: What Building With AI Taught Me About Tokens, Models and Energy</h1>
+    <p>
+      By <span class="author">
+        <a href="https://npayen.com">
+          <i class="fas fa-globe" style="color:grey;"></i> Nicolas Payen
+        </a>
+      </span>
+      | <span class="date">July 9, 2026</span>
+    </p>
+  </div>
+</header>
+<main class="container">
+  <article>
+<!-- Hero image -->
+<section>
+  <figure>
+    <img src="images/hero.jpg"
+         alt="The economics of intelligence, AI models, tokens and energy"
+         loading="lazy">
+    <figcaption>Perhaps token efficiency is really about learning how to allocate intelligence</figcaption>
+  </figure>
+</section>
+
+<section>
+
+  <p>
+    Over the past year, I have spent a significant amount of time building with AI.
+    Not experimenting with a few prompts or asking ChatGPT to improve an email.
+  </p>
+
+  <p>
+    I have been building <a href="https://hea-world.com" target="_blank"><strong>HEA-World</strong></a> with AI deeply involved in the engineering process, while simultaneously designing AI-based systems that may one day process large volumes of interactions between organizations and people.
+  </p>
+
+  <table class="at-a-glance">
+    <caption>HEA-World at a glance</caption>
+    <tbody>
+      <tr>
+        <th scope="row">Platform</th>
+        <td>58 domains · 127 APIs · 19 async pipelines</td>
+      </tr>
+      <tr>
+        <th scope="row">Product</th>
+        <td>163 user journeys · 101 app surfaces · 4 locales</td>
+      </tr>
+      <tr>
+        <th scope="row">Quality</th>
+        <td>180 guardrails · 37 deploy gates · 224 architecture docs</td>
+      </tr>
+      <tr>
+        <th scope="row">Codebase</th>
+        <td>~600K lines of application source (JS/HTML/CSS)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>
+    My perspective comes from building almost continuously with a fairly broad mix of AI models and tools. GPT has been a constant companion. I experimented with Grok for a while. I have used Codex extensively for engineering, Antigravity with Claude, and Cursor, more recently including Composer.
+  </p>
+
+  <p>
+    I did not use them to run a benchmark.
+    I used them to build.
+  </p>
+
+  <p>
+    Thousands of conversations, architecture discussions, code reviews, implementation cycles, broken builds, rewrites, content creation and, occasionally, some very frustrating evenings.
+  </p>
+
+  <p>
+    So what follows is not a scientific comparison of AI models. It is my REX, my return on experience, from putting them to work on the same increasingly complex system.
+  </p>
+
+  <p>
+    I have not solved the economics of AI.
+    But I have clearly learned a lot.
+    And one conviction is becoming stronger:
+  </p>
+
+  <blockquote class="large-quote">
+    Token efficiency does not mean using the cheapest model.
+    It means allocating the right intelligence to the right task.
+  </blockquote>
+
+  <p>
+    The more I work with AI, the less I think of models as a simple ranking from less intelligent to more intelligent.
+    Reasoning matters. Speed matters. Context matters. Tool use matters. Emotional intelligence matters.
+    And, increasingly, the energy required to deliver all of this matters too.
+  </p>
+
+  <p>
+    Perhaps we need to stop asking which model is the best.
+    The more useful question may be: <strong>best for what?</strong>
+  </p>
+
+  <h2>The Cheapest Model Can Produce the Most Expensive Outcome</h2>
+
+  <p>
+    My experience with AI-assisted engineering has changed significantly as models have improved.
+    For complex system design and engineering work, I increasingly want access to the most advanced model available.
+  </p>
+
+  <p>
+    The reason is simple: <strong>the cost of sloppiness is too high.</strong>
+  </p>
+
+  <p>
+    A cheaper or less capable model can move incredibly fast. The first iteration can look impressive.
+    But in a complex system, small architectural misunderstandings accumulate.
+  </p>
+
+  <p>
+    Context gets lost. Existing design principles are ignored. A quick fix creates another problem somewhere else.
+  </p>
+
+  <p>
+    Then comes rework.
+    And rework is expensive.
+    Not only in tokens.
+    It costs human review time, debugging, lost confidence and the mental energy required to understand what the AI actually changed.
+  </p>
+
+  <p>
+    I have experienced this directly while building <a href="https://hea-world.com" target="_blank">HEA-World</a>.
+    Sometimes a faster model feels extremely productive for the first few hours. Then, as iterations accumulate and the system complexity catches up, I find myself spending more time reviewing, correcting and cleaning.
+  </p>
+
+  <p>
+    The token price looked attractive.
+    The outcome was not necessarily cheaper.
+  </p>
+
+  <p>
+    A more advanced model that understands the system better and gets the architecture right can ultimately cost significantly less.
+  </p>
+
+  <blockquote class="large-quote">
+    The cost of intelligence should not be measured per token.
+    It should be measured against the cost of the outcome.
+  </blockquote>
+
+  <p>
+    This is why I believe demand for frontier AI models will continue to grow.
+    As more engineers, researchers, creators and organizations use AI for increasingly complex work, the best reasoning models will remain in high demand.
+  </p>
+
+  <p>
+    At <a href="https://hea-world.com" target="_blank">HEA-World</a>, I expect us to continue using the most advanced models available for engineering, complex system thinking and selected creative tasks where quality matters disproportionately.
+    Video is probably a good example.
+    But I do not think this is how most AI tokens should ultimately be consumed.
+  </p>
+
+  <h2>Most Business Problems Are Not Intellectually Difficult. They Are Contextually Heavy.</h2>
+
+  <p>
+    While building <a href="https://hea-world.com" target="_blank">HEA-World</a>, I have become increasingly interested in another category of model.
+  </p>
+
+  <ul>
+    <li>Extremely fast.</li>
+    <li>Able to absorb a large amount of context.</li>
+    <li>Reliable at using tools.</li>
+    <li>But not necessarily requiring frontier-level reasoning.</li>
+  </ul>
+
+  <p>
+    Many business AI tasks are not intellectually difficult.
+    They are <strong>contextually heavy</strong>.
+  </p>
+
+  <p>
+    An AI may need to understand the organization, its services, the customer, the conversation history, the current system state, permissions and the tools it is allowed to use.
+    That is potentially a lot of context.
+    But once the context is understood, the task itself can be relatively straightforward.
+  </p>
+
+  <ul>
+    <li>Retrieve.</li>
+    <li>Decide.</li>
+    <li>Call the right tool.</li>
+    <li>Execute.</li>
+    <li>Respond.</li>
+  </ul>
+
+  <p>
+    I suspect this type of <strong>fast, high-context operational intelligence</strong> may become the real workhorse of AI-based automation.
+  </p>
+
+  <p>
+    At one end of the spectrum, we will have frontier intelligence for difficult reasoning, engineering and high-value creation.
+    At the other end, nano intelligence for classification, extraction, routing, scoring and highly bounded repetitive tasks.
+    And between them, perhaps a massive layer of operational intelligence: models designed to understand rich context and reliably act.
+  </p>
+
+  <p>
+    This is already influencing how I think about the architecture of <a href="https://hea-world.com" target="_blank">HEA-World</a>.
+    But there is another dimension that makes the allocation problem even more interesting.
+  </p>
+
+  <h2>Intelligence Is Not Only Reasoning</h2>
+
+  <p>
+    People talk about intelligence all the time when comparing AI models.
+  </p>
+
+  <ul>
+    <li>Reasoning benchmarks.</li>
+    <li>Coding benchmarks.</li>
+    <li>Mathematics.</li>
+    <li>Scientific problems.</li>
+  </ul>
+
+  <p>
+    But one of my favourite capabilities of an AI model is much harder to put on a leaderboard.
+  </p>
+
+  <p>
+    <strong>Emotional intelligence and empathy.</strong>
+  </p>
+
+  <p>
+    I have not done enough research in this field to make strong scientific claims.
+    This is purely an observation from my own experience.
+  </p>
+
+  <p>
+    But I would absolutely choose one model over another based on its emotional intelligence and its capacity for empathy, at least for models designed to interact with humans.
+  </p>
+
+  <p>
+    Over the past year, I have worked almost non-stop with AI models while building <a href="https://hea-world.com" target="_blank">HEA-World</a>.
+    They have been present through the excitement of a breakthrough, the satisfaction of seeing a complex system finally come together, the frustration of a broken build and the moments when I seriously questioned some of my own product decisions.
+  </p>
+
+  <p>
+    When you work with models at this intensity, their emotional qualities, and their defects, become amplified.
+  </p>
+
+  <ul>
+    <li>A model that does not recognize frustration and enthusiastically suggests ten more ideas can become exhausting.</li>
+    <li>A model that agrees with everything can reinforce bad decisions.</li>
+    <li>A model that becomes overly cautious at the wrong moment can destroy momentum.</li>
+    <li>And a model that understands the difference between exploration, doubt, frustration and execution can become a remarkably effective working partner.</li>
+  </ul>
+
+  <p>
+    I want this in my own daily work with AI.
+    But more importantly for what I am building, I want it for the people who will interact with an HEA.
+  </p>
+
+  <ul>
+    <li>A customer asking a simple product question may only need a fast and accurate answer.</li>
+    <li>A frustrated customer does not.</li>
+    <li>Someone hesitating before an important purchase may need clarity without pressure.</li>
+    <li>A person contacting an organization during a difficult moment may care as much about how the answer is delivered as about the information itself.</li>
+  </ul>
+
+  <p>
+    Perhaps the right model should not only be determined by the reasoning complexity of a task.
+  </p>
+
+  <blockquote class="large-quote">
+    Perhaps the emotional complexity of the interaction should matter too.
+  </blockquote>
+
+  <p>
+    A nano model may classify the request.
+    An operational model may retrieve the customer history and available options.
+    But the system may recognize that the conversation has become emotionally sensitive and allocate a different kind of intelligence to the interaction.
+  </p>
+
+  <p>
+    Not because the question suddenly became intellectually difficult.
+    Because the human context changed.
+  </p>
+
+  <p>
+    We spend a lot of time benchmarking artificial intelligence on mathematics, coding and reasoning.
+    For human-facing AI, I suspect we will become increasingly demanding about something much harder to benchmark:
+  </p>
+
+  <p>
+    <strong>How does this intelligence make us feel when we work with it?</strong>
+  </p>
+
+  <p>
+    For me, that is already becoming a model selection criterion.
+  </p>
+
+  <h2>AI Automation Is an Intelligence Allocation System</h2>
+
+  <p>
+    This is why I increasingly see AI-based automation as more than a productivity tool.
+    It is a governance layer for intelligence.
+  </p>
+
+  <p>
+    A human opens an AI interface and says:
+  </p>
+
+  <p>
+    “Here is my problem. Think about it.”
+  </p>
+
+  <p>
+    The model has to interpret the problem, understand intent, decide what matters, reason and respond.
+  </p>
+
+  <p>
+    A well-designed automation system can be much more deliberate.
+  </p>
+
+  <ul>
+    <li>Classify this interaction.</li>
+    <li>Understand its context.</li>
+    <li>Assess its complexity.</li>
+    <li>Recognize the available tools.</li>
+    <li>Consider the permissions.</li>
+    <li>Perhaps even understand the emotional state of the conversation.</li>
+    <li>Then allocate the right model.</li>
+  </ul>
+
+  <p>
+    The same architecture that controls which data an AI can see and which actions it can execute can also decide <strong>which intelligence should handle the task, how much context it needs and how many tokens the task deserves</strong>.
+  </p>
+
+  <p>
+    Quality guardrails and token-efficiency strategies become part of the same system.
+    I increasingly see this as a new design discipline.
+  </p>
+
+  <blockquote class="large-quote">
+    Tokenomics is becoming the art of allocating intelligence.
+  </blockquote>
+
+  <h2>The Energy Question May Also Be an Architecture Question</h2>
+
+  <p>
+    My professional background is in energy, so it is difficult for me to look at the expansion of AI without thinking about electricity demand.
+  </p>
+
+  <p>
+    The current data-centre build-out is extraordinary.
+    We are designing increasingly large and power-dense infrastructure to support AI growth.
+    And I understand why.
+  </p>
+
+  <p>
+    If millions of engineers, researchers, creators and businesses increasingly delegate complex work to advanced AI models, demand for frontier intelligence will grow substantially.
+    I am contributing to that demand myself.
+    But I keep wondering about the long-term workload mix.
+  </p>
+
+  <p>
+    <strong>What if 80% of future AI traffic eventually does not require frontier intelligence?</strong>
+  </p>
+
+  <p>
+    The number is deliberately hypothetical.
+    It is a thought experiment, not a forecast.
+  </p>
+
+  <p>
+    But imagine that most AI interactions eventually happen inside well-designed automation systems.
+  </p>
+
+  <ul>
+    <li>Classification.</li>
+    <li>Extraction.</li>
+    <li>Routing.</li>
+    <li>Monitoring.</li>
+    <li>Routine customer interactions.</li>
+    <li>Structured content generation.</li>
+    <li>Business workflow execution.</li>
+  </ul>
+
+  <p>
+    A huge amount of this work may eventually be handled by nano or fast operational models.
+  </p>
+
+  <p>
+    Would we design the same data-centre infrastructure if most AI demand did not require maximum reasoning?
+    I am not convinced we would.
+  </p>
+
+  <p>
+    The total demand for AI could still explode.
+    Efficiency usually creates new usage, and cheaper intelligence will almost certainly create applications we cannot anticipate today.
+    But the <strong>shape of infrastructure demand</strong> could be very different.
+  </p>
+
+  <p>
+    We may be planning AI infrastructure around peak intelligence demand while much of future AI consumption becomes something closer to base-load intelligence.
+  </p>
+
+  <ul>
+    <li>Frontier models handle difficult, high-value and unpredictable problems.</li>
+    <li>Operational models absorb rich context and execute workflows.</li>
+    <li>Nano models process enormous volumes of repetitive and bounded tasks.</li>
+    <li>And AI automation becomes the dispatch layer deciding which intelligence resource to call.</li>
+  </ul>
+
+  <p>
+    Coming from the energy sector, that analogy is increasingly difficult for me to ignore.
+  </p>
+
+  <h2>Distributed Energy. Distributed Intelligence.</h2>
+
+  <p>
+    There is one more parallel I keep thinking about.
+  </p>
+
+  <p>
+    The energy system is becoming increasingly distributed.
+    Solar generation is spread across millions of assets.
+    Wind generation is geographically dispersed.
+    Batteries are appearing at grid, commercial and residential levels.
+    The future electricity system is becoming more dynamic and increasingly dependent on our ability to match flexible demand with variable supply.
+  </p>
+
+  <p>
+    Could the evolution of AI infrastructure eventually follow a compatible path?
+  </p>
+
+  <p>
+    Frontier models will probably continue to require enormous, concentrated computing infrastructure.
+    Complex reasoning, engineering and scientific workloads may justify highly specialized clusters with extraordinary power density.
+  </p>
+
+  <p>
+    But a world dominated by nano and operational models creates a different possibility.
+  </p>
+
+  <ul>
+    <li>Many AI tasks are bounded.</li>
+    <li>Some are latency-sensitive.</li>
+    <li>Many are not.</li>
+  </ul>
+
+  <p>
+    A CRM analysis can run overnight.
+    A content brief can wait a few minutes.
+    Classification, extraction, monitoring and background processing can potentially be queued, distributed and scheduled.
+  </p>
+
+  <p>
+    In energy terms, these are <strong>flexible loads</strong>.
+  </p>
+
+  <p>
+    If the compute itself becomes more distributed, an interesting architecture starts to emerge.
+    Smaller AI inference workloads could potentially be located closer to distributed renewable generation and battery capacity.
+    Workloads could move geographically or shift in time depending on energy availability, grid constraints and carbon intensity.
+  </p>
+
+  <p>
+    Instead of only building ever-larger power systems around concentrated AI data centres, perhaps we will also learn to distribute part of the intelligence demand around the energy system we are already building.
+    I see a potentially powerful structural match.
+  </p>
+
+  <blockquote class="large-quote">
+    Distributed renewable energy.<br>
+    Distributed storage.<br>
+    Distributed intelligence.
+  </blockquote>
+
+  <p>
+    And again, automation could become the orchestration layer.
+    The same system that decides which model deserves a task could eventually consider <strong>when and where that task should be executed</strong>.
+  </p>
+
+  <ul>
+    <li>Not every token is equally urgent.</li>
+    <li>Not every model requires the same infrastructure.</li>
+    <li>Not every human interaction requires the same emotional capability.</li>
+    <li>And perhaps not every AI workload should be computed in the same place or at the same time.</li>
+  </ul>
+
+  <p>
+    The energy industry has spent years learning how to orchestrate millions of distributed assets.
+    AI may be about to create millions, or billions, of distributed intelligence workloads.
+    The two worlds may fit together better than we currently assume.
+  </p>
+
+  <h2>Learning to Allocate Intelligence</h2>
+
+  <p>
+    I do not believe the answer to AI's growing energy demand is to stop using advanced models.
+    Quite the opposite.
+  </p>
+
+  <p>
+    My own experience has convinced me that using the best available model for difficult engineering work can be more efficient than using a cheaper model and paying for rework afterwards.
+    But we should be equally demanding about where frontier intelligence is actually required.
+  </p>
+
+  <ul>
+    <li>Use advanced reasoning where complexity and quality justify it.</li>
+    <li>Use fast, high-context operational intelligence where the challenge is understanding context and reliably executing.</li>
+    <li>Use nano models for high-volume, well-defined tasks.</li>
+    <li>For human-facing interactions, consider the emotional complexity of the moment.</li>
+    <li>Build governance systems that can route between them.</li>
+    <li>Design quality guardrails so that efficiency does not quietly become mediocrity.</li>
+    <li>Escalate when a system reaches the limits of the intelligence it has been allocated.</li>
+    <li>And perhaps, eventually, make time, location and energy availability part of that orchestration decision too.</li>
+  </ul>
+
+  <p>
+    Maybe the future of AI efficiency will not be defined by a single breakthrough model or a more efficient GPU.
+    Maybe a significant part of it will come from better system design.
+  </p>
+
+  <p>
+    In the energy world, we learned that managing demand can sometimes be as important as building new generation capacity.
+    I suspect we may eventually learn something similar about artificial intelligence.
+  </p>
+
+  <blockquote class="large-quote">
+    Before asking how much AI infrastructure we need,
+    perhaps we should first ask how intelligently we intend to consume intelligence.
+  </blockquote>
+
+  <!-- HEA reference -->
+
+  <section class="hea-world-reference">
+    <hr>
+
+    <p>
+      These thoughts come from my experience building
+      <a href="https://hea-world.com" target="_blank"><strong>HEA-World</strong></a>,
+      a platform for creating governed Human-Enhanced Agents and AI-based automations grounded in an organization's own context, knowledge and voice.
+    </p>
+
+  </section>
+
+  <p>
+    #ArtificialIntelligence #Tokenomics #AIModels #AIAutomation #AIAgents #Energy #DataCenters #RenewableEnergy #DistributedEnergy #HumanEnhancedAI #HEAWorld #BuildInPublic
+  </p>
+
+</section>
+
+  </article>
+
+</main>
+
+<footer>
+  <p>Connect with me on <a href="https://www.linkedin.com/in/nicolaspayen">LinkedIn</a> or <a href="https://medium.com/@nicolas-payen">Medium</a>.</p>
+  <div class="container">
+    <p>&copy; 2026 <a href="https://npayen.com">Nicolas Payen</a>. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>
+
+
