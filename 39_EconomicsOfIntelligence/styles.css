@@ -111,18 +111,45 @@ figcaption {
     margin-bottom: 4px;
 }
 
-.at-a-glance th {
+.at-a-glance thead th {
     text-align: left;
-    vertical-align: top;
-    padding: 8px 16px 8px 0;
     color: #3b4d4a;
     font-weight: bold;
-    white-space: nowrap;
+    padding: 8px 8px 8px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.at-a-glance thead th:last-child {
+    text-align: right;
+    padding-right: 0;
+}
+
+.at-a-glance tbody {
+    border-top: 1px solid #eee;
+}
+
+.at-a-glance tbody th[scope="rowgroup"] {
+    text-align: left;
+    vertical-align: top;
+    padding: 10px 16px 10px 0;
+    color: #3b4d4a;
+    font-weight: bold;
+    width: 24%;
 }
 
 .at-a-glance td {
-    padding: 8px 0;
+    padding: 10px 8px 10px 0;
     color: #444;
+    vertical-align: top;
+}
+
+.at-a-glance td.count {
+    text-align: right;
+    white-space: nowrap;
+    font-weight: bold;
+    color: #3b4d4a;
+    width: 1%;
+    padding-right: 0;
 }
 
 /* Footer Styling */

@@ -66,22 +66,63 @@
 
   <table class="at-a-glance">
     <caption>HEA-World at a glance</caption>
+    <thead>
+      <tr>
+        <th scope="col"></th>
+        <th scope="col">What it means</th>
+        <th scope="col">Count</th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
-        <th scope="row">Platform</th>
-        <td>58 domains · 127 APIs · 19 async pipelines</td>
+        <th scope="rowgroup" rowspan="3">Platform &amp; services</th>
+        <td>Major product areas (chat, billing, CRM, publishing, etc.)</td>
+        <td class="count">58</td>
       </tr>
       <tr>
-        <th scope="row">Product</th>
-        <td>163 user journeys · 101 app surfaces · 4 locales</td>
+        <td>Backend functions the app calls</td>
+        <td class="count">127</td>
       </tr>
       <tr>
-        <th scope="row">Quality</th>
-        <td>180 guardrails · 37 deploy gates · 224 architecture docs</td>
+        <td>Background jobs for heavy work (publish, training, content generation)</td>
+        <td class="count">19</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th scope="rowgroup" rowspan="3">What users see and do</th>
+        <td>Real user scenarios we designed for</td>
+        <td class="count">163</td>
       </tr>
       <tr>
-        <th scope="row">Codebase</th>
-        <td>~600K lines of application source (JS/HTML/CSS)</td>
+        <td>Screens and interfaces across the product</td>
+        <td class="count">100+</td>
+      </tr>
+      <tr>
+        <td>Languages supported (English + French, Dutch, Spanish, German)</td>
+        <td class="count">5</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th scope="rowgroup" rowspan="3">How we keep it production-ready</th>
+        <td>Automated quality and safety test suites</td>
+        <td class="count">180</td>
+      </tr>
+      <tr>
+        <td>Release checkpoints that must pass before we ship</td>
+        <td class="count">37</td>
+      </tr>
+      <tr>
+        <td>Internal design and operations documents</td>
+        <td class="count">224</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th scope="rowgroup" rowspan="1">Size of the codebase</th>
+        <td>Lines of product code (JavaScript, HTML, CSS)</td>
+        <td class="count">~600,000</td>
       </tr>
     </tbody>
   </table>
